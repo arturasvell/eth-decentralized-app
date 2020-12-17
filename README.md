@@ -1,1 +1,1 @@
-# eth-decentralized-app
+# Ethereum Decentralized App
